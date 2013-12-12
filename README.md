@@ -1,7 +1,7 @@
 EE URL Encoder
 ==============
 
-ExpressionEngine plugin to encode URLs using PHP's (urlencode)[http://www.php.net/urlencode] or (rawurlencode)[http://www.php.net/urlencode].
+ExpressionEngine plugin to encode URLs using PHP's [urlencode](http://www.php.net/urlencode) or [rawurlencode](http://www.php.net/urlencode).
 
 ### Installation & Usage
 Place *url_encoder* in your *system/expressionengine/third_party* directory.
